@@ -28,3 +28,6 @@ This repository contains a Dockerized React application built with Vite.
    Then stop it using:
 
    docker stop <container_id>
+
+### Troubleshooting
+If you encounter any issues, please contact Adrian Birta at adrian.birta.dev@gmail.com
