@@ -9,24 +9,24 @@ This repository contains a Dockerized React application built with Vite.
 
 2. **Pull the Docker Image**
    Run the following command to pull the Docker image from Docker Hub:
-
+   ```bash
    docker pull adrianbirta1/news-aggregator:latest
 
 3. **Run the Docker Container**
    Start a container from the pulled image with the following command:
-
+   ```bash
    docker run -dp 3000:3000 --name news-aggregator-container news-aggregator:latest
 
-4. **Access the Application**
-   Open a web browser and navigate to http://localhost:3000 to view the application.
+4. **Access the Application** Open a web browser and navigate to http://localhost:3000 to view the application.
 
 5. **Stopping the Docker Container**
    To stop the container, find its ID by running:
-
-    docker ps
+   ```bash
+   docker ps
+   ```
    
    Then stop it using:
-
+   ```bash
    docker stop <container_id>
 
 ### Troubleshooting
