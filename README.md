@@ -5,7 +5,7 @@ The News Aggregator Application is a React-based web application that consolidat
 
 ## Features
 
-- **Article Search and Filtering**: Search news articles by keywords and filter results based on date, category, and source..
+- **Article Search and Filtering**: Search news articles by keywords and filter results based on date, category, and source.
 
 - **Personalized News Feed**: Customize news content according to sources, categories, and authors.
 
