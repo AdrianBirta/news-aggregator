@@ -32,7 +32,7 @@ The application integrates with the following news APIs:
 For development and testing, follow these steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/news-aggregator.git
+   git clone https://github.com/AdrianBirta/news-aggregator.git
    cd news-aggregator
 2. **Install Dependencies**:
    ```bash
